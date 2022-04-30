@@ -2,4 +2,4 @@ console.log('hello from my package');
 
 console.log('new change from feature branch, new changes');
 
-console.log('pub10 changes');
+console.log('pub11 changes');
