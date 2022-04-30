@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.10](https://github.com/subhranshudas/ghpubtest/compare/@dasubh/ghpub@1.0.9...@dasubh/ghpub@1.0.10) (2022-04-30)
+
+
+### Bug Fixes
+
+* **log:** made a change in pkg ([085fea2](https://github.com/subhranshudas/ghpubtest/commit/085fea20028a55d06357cf917d79a0252e5f48e6))
+
+
+
+
+
 ## [1.0.9](https://github.com/subhranshudas/ghpubtest/compare/@dasubh/ghpub@1.0.8...@dasubh/ghpub@1.0.9) (2022-04-30)
 
 
