@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.6](https://github.com/subhranshudas/ghpubtest/compare/@dasubh/ghpub@1.0.5...@dasubh/ghpub@1.0.6) (2022-04-30)
+
+
+### Bug Fixes
+
+* **log:** added npm_token to the yaml ([61fc09b](https://github.com/subhranshudas/ghpubtest/commit/61fc09b759b399fc46a62bd590c775a1b91b2536))
+
+
+
+
+
 ## [1.0.5](https://github.com/subhranshudas/ghpubtest/compare/@dasubh/ghpub@1.0.4...@dasubh/ghpub@1.0.5) (2022-04-30)
 
 
