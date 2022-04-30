@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.8](https://github.com/subhranshudas/ghpubtest/compare/@dasubh/ghpub@1.0.7...@dasubh/ghpub@1.0.8) (2022-04-30)
+
+
+### Bug Fixes
+
+* **log:** dummy commit to test secret ([6543b07](https://github.com/subhranshudas/ghpubtest/commit/6543b078fa1da5ec72bd35ee617faa616b5a66e1))
+
+
+
+
+
 ## [1.0.7](https://github.com/subhranshudas/ghpubtest/compare/@dasubh/ghpub@1.0.6...@dasubh/ghpub@1.0.7) (2022-04-30)
 
 
