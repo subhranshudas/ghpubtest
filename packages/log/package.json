@@ -1,0 +1,10 @@
+{
+  "name": "@dasubh/ghpub",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
