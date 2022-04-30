@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.5](https://github.com/subhranshudas/ghpubtest/compare/@dasubh/ghpub@1.0.4...@dasubh/ghpub@1.0.5) (2022-04-30)
+
+
+### Bug Fixes
+
+* **log:** added repository field in package.json ([2d44997](https://github.com/subhranshudas/ghpubtest/commit/2d44997380737a4c92a5fad2b42a99669cbee6d9))
+
+
+
+
+
 ## [1.0.4](https://github.com/subhranshudas/ghpubtest/compare/@dasubh/ghpub@1.0.4-beta.0...@dasubh/ghpub@1.0.4) (2022-04-30)
 
 
