@@ -1,0 +1,9 @@
+{
+  "name": "ghpubtest",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
