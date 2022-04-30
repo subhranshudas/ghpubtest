@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.4](https://github.com/subhranshudas/ghpubtest/compare/@dasubh/ghpub@1.0.4-beta.0...@dasubh/ghpub@1.0.4) (2022-04-30)
+
+
+### Bug Fixes
+
+* **all:** yaml change + pub11 ([57b14ee](https://github.com/subhranshudas/ghpubtest/commit/57b14ee31b48428f5a4d2e1b78b9031150e33b27))
+* **log:** added pub10 changes ([a47250d](https://github.com/subhranshudas/ghpubtest/commit/a47250d611846d7f8f2a6b917cb00d26db5291f7))
+* **log:** pub 12 changes ([055d9d6](https://github.com/subhranshudas/ghpubtest/commit/055d9d67d642ffde205c39bd2c5fc33b52c11f32))
+
+
+
+
+
 ## [1.0.4-beta.0](https://github.com/subhranshudas/ghpubtest/compare/@dasubh/ghpub@1.0.3...@dasubh/ghpub@1.0.4-beta.0) (2022-04-30)
 
 
