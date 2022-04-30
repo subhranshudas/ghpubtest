@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.4-beta.0](https://github.com/subhranshudas/ghpubtest/compare/@dasubh/ghpub@1.0.3...@dasubh/ghpub@1.0.4-beta.0) (2022-04-30)
+
+
+### Bug Fixes
+
+* **log:** pub9 changes ([d283268](https://github.com/subhranshudas/ghpubtest/commit/d283268c9a2ef216d96fc2cc0f69912bd61cdf8e))
+
+
+
+
+
 ## [1.0.3](https://github.com/subhranshudas/ghpubtest/compare/@dasubh/ghpub@1.0.2...@dasubh/ghpub@1.0.3) (2022-04-30)
 
 
