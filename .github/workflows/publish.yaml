@@ -24,4 +24,4 @@ jobs:
 
     - name: "Version and publish"
       run: |
-        echo "Hello World!"
+        echo "Hello World! ${{ github.ref }}"
