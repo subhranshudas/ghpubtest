@@ -2,4 +2,4 @@ console.log('hello from my package');
 
 console.log('new change from feature branch, new changes');
 
-console.log('remove-npm-token-from-env-secrets-test');
+console.log('remove-npm-token-from-repository-secrets-test');
