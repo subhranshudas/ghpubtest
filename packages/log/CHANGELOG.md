@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.12](https://github.com/subhranshudas/ghpubtest/compare/@dasubh/ghpub@1.0.11...@dasubh/ghpub@1.0.12) (2022-05-01)
+
+
+### Bug Fixes
+
+* **root:** testing to remove NPM token from env secrets ([8d2aed6](https://github.com/subhranshudas/ghpubtest/commit/8d2aed6a4026247e110ca3f0fd3ceed5eaac6c31))
+
+
+
+
+
 ## [1.0.11](https://github.com/subhranshudas/ghpubtest/compare/@dasubh/ghpub@1.0.10...@dasubh/ghpub@1.0.11) (2022-04-30)
 
 
