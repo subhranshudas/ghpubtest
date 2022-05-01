@@ -1,4 +1,4 @@
-name: Publish SDK packages to NPM
+name: Publish SDK
 
 on:
   pull_request:
