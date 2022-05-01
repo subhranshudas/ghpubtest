@@ -2,4 +2,4 @@ console.log('hello from my package');
 
 console.log('new change from feature branch, new changes');
 
-console.log('now we have added devlopment');
+console.log('test merge to dev');
