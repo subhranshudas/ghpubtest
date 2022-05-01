@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.15](https://github.com/subhranshudas/ghpubtest/compare/@dasubh/ghpub@1.0.14...@dasubh/ghpub@1.0.15) (2022-05-01)
+
+
+### Bug Fixes
+
+* **log:** added dev branch ([751251e](https://github.com/subhranshudas/ghpubtest/commit/751251eb358f6465297d70fb17a7721bb27d7192))
+
+
+
+
+
 ## [1.0.14](https://github.com/subhranshudas/ghpubtest/compare/@dasubh/ghpub@1.0.13...@dasubh/ghpub@1.0.14) (2022-05-01)
 
 
