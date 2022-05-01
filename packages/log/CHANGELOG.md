@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.14](https://github.com/subhranshudas/ghpubtest/compare/@dasubh/ghpub@1.0.13...@dasubh/ghpub@1.0.14) (2022-05-01)
+
+
+### Bug Fixes
+
+* **root:** added back repo secret for npm token ([d4a9a76](https://github.com/subhranshudas/ghpubtest/commit/d4a9a763eee2dd892f3d6a74f68ceab44846654e))
+
+
+
+
+
 ## [1.0.13](https://github.com/subhranshudas/ghpubtest/compare/@dasubh/ghpub@1.0.12...@dasubh/ghpub@1.0.13) (2022-05-01)
 
 
