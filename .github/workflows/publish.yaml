@@ -21,6 +21,12 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: '14'
+    
+    - name: Ensure NPM access
+      run: |
+        npm config set '//registry.npmjs.org/:_authToken' "${NPM_TOKEN}"
+      env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
     - name: "Version and publish"
       env:
