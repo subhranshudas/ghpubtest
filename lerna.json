@@ -1,7 +1,4 @@
 {
-  "packages": [
-    "packages/*"
-  ],
   "command": {
     "version": {
       "ignoreChanges": ["*.md"],
